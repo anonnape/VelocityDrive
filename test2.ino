@@ -1,10 +1,5 @@
 
 
- 
-/*
- *  FOR ROBU CREATO 3.0
- *  Main controller for the RC CAR
- */
 
 // using rc_ESC lib to control motors
 #include <ESC.h>
